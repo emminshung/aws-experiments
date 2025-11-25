@@ -40,9 +40,3 @@ aws-experiments/
 ├── .python-version # Python 3.13.9
 └── pyproject.toml  # Project dependencies
 ```
-
-## AWS Configuration
-
-- Region: us-east-2
-- Account: 625993838639
-- Profile: default

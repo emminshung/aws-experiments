@@ -48,14 +48,6 @@ uv run python scripts/<script_name>.py
 - `boto3` (>=1.41.3) - AWS SDK for Python, used for interacting with AWS services
 - `awscli-local` (>=0.22.2) - LocalStack AWS CLI wrapper for local AWS testing
 
-### AWS Configuration
-The project is configured for:
-- Region: `us-east-2`
-- Account: `625993838639`
-- Profile: `default`
-
-When creating AWS scripts, use these as the default settings unless specified otherwise.
-
 ## Code Conventions
 
 Since this is an experimental playground:
