@@ -21,6 +21,9 @@ env/
 .aws/credentials
 *.pem
 
+# CDK
+cdk.out/
+
 # UV
 .uv_cache/
 

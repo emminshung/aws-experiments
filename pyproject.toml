@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13.9"
 dependencies = [
+    "aws-cdk-lib>=2.229.0",
     "awscli-local>=0.22.2",
     "boto3>=1.41.3",
+    "constructs>=10.4.3",
 ]
